@@ -1,4 +1,4 @@
-# task1---Java-Console-Calculator
+Java-Console-Calculator
 
 ## Overview
 
